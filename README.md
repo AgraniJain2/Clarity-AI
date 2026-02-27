@@ -1,4 +1,4 @@
-# Eye-Straining Color Reliever
+# Clarity AI(Eye-Straining Color Reliever)
 
 A real-time screen and window capturing tool that applies a color filter to reduce eye strain from overly saturated or bright colors.
 
